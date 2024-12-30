@@ -1,0 +1,11 @@
+*{
+    margin: 20; 
+    background-color: blue;
+    padding: 0;
+}
+
+#hi{
+    padding: 100px;
+    margin: 200px;
+    border: 20px dotted black;
+}
